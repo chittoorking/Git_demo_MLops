@@ -1,1 +1,1 @@
-This is a Repo for Git demo of MLops
+This is a Repo for Git demo of MLops Vamsi
